@@ -16,3 +16,12 @@ you will be through the application.
 - On right hand side, there will be an option of Settings, go to Settings ->Portals->Portal link.
 - That will be the portal link for your account.
 
+Documentation
+--------------
+ Documentation is available in the repository itself.
+
+Contacts & Citation
+--------------------
+If you want to use this product as the reference , please contact us.
+
+

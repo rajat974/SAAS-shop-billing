@@ -20,7 +20,7 @@ Documentation
 --------------
  Documentation is available in the repository itself.
 
-Contacts & Citation
+Note
 --------------------
 If you want to use this product as the reference , please contact us.
 
